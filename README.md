@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hi, I'm Edris 👋
 
+I am a Business Analytics graduate from Nanyang Technological University, interested in turning
+data into business decisions.
+
+**Skills:** SQL (PostgreSQL, MySQL) · Power BI (Power Query, DAX) ·
+Python (pandas, Matplotlib) · Excel
+**Certification:** Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+## Featured projects
+- **[E-Commerce Customer Analysis](link)** – SQL analysis of 100K+ orders, RFM segmentation
+- **[HDB Resale Value Dashboard](link)** – Power BI dashboard on HDB resale prices
+- **[Automated Carpark Report](link)** – Python pipeline using the LTA DataMall API
+
+📫 [LinkedIn](link) · syed2edris@gmail.com
 <!--
 **syededris/syededris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
