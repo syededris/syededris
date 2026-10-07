@@ -12,7 +12,7 @@ Python (pandas, Matplotlib) · Excel
 - **[HDB Resale Value Dashboard](link)** – Power BI dashboard on HDB resale prices
 - **[Automated Carpark Report](link)** – Python pipeline using the LTA DataMall API
 
-📫 [LinkedIn](link) · syed2edris@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/syededris) · syed2edris@gmail.com
 <!--
 **syededris/syededris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
